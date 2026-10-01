@@ -1,0 +1,195 @@
+AD|Andorra|Andorra la Vieja|EU|Tiene dos jefes de Estado a la vez: el presidente de Francia y el obispo de Urgel, en España.
+AE|Emiratos Árabes Unidos|Abu Dabi|AS|En Dubái está el Burj Khalifa, el edificio más alto del mundo, con 828 metros.
+AF|Afganistán|Kabul|AS|No tiene salida al mar y casi todo su territorio es montañoso, cruzado por la cordillera del Hindu Kush.
+AG|Antigua y Barbuda|Saint John's|NA|Se dice que Antigua tiene 365 playas, una para cada día del año.
+AL|Albania|Tirana|EU|Durante la Guerra Fría se construyeron allí más de 170.000 búnkeres de hormigón.
+AM|Armenia|Ereván|AS+EU|Fue el primer país del mundo en adoptar el cristianismo como religión oficial, en el año 301.
+AO|Angola|Luanda|AF|Fue colonia portuguesa hasta 1975, y el portugués sigue siendo su idioma oficial.
+AR|Argentina|Buenos Aires|SA|El Aconcagua, en Mendoza, es la montaña más alta de América con 6.961 metros.
+AT|Austria|Viena|EU|Viena fue hogar de Mozart, Beethoven y Schubert, y es famosa por sus cafés tradicionales.
+AU|Australia|Canberra|OC|Canberra se construyó como capital porque Sídney y Melbourne no se ponían de acuerdo sobre cuál debía serlo.
+AZ|Azerbaiyán|Bakú|AS+EU|Se lo llama la "tierra del fuego" por sus yacimientos de gas que arden de forma natural desde hace siglos.
+BA|Bosnia y Herzegovina|Sarajevo|EU|En Sarajevo fue asesinado el archiduque Francisco Fernando en 1914, hecho que desató la Primera Guerra Mundial.
+BB|Barbados|Bridgetown|NA|Es la tierra natal de la cantante Rihanna.
+BD|Bangladés|Daca|AS|Allí está el Sundarbans, el manglar más grande del mundo y hogar del tigre de Bengala.
+BE|Bélgica|Bruselas|EU|Tiene tres idiomas oficiales: neerlandés, francés y alemán.
+BF|Burkina Faso|Uagadugú|AF|Su nombre significa "tierra de los hombres íntegros".
+BG|Bulgaria|Sofía|EU|Los búlgaros mueven la cabeza de arriba abajo para decir "no" y de lado a lado para decir "sí".
+BH|Baréin|Manama|AS|Es un archipiélago de más de 30 islas en el golfo Pérsico, unido a Arabia Saudí por un puente de 25 km.
+BI|Burundi|Gitega|AF|En 2019 trasladó su capital política de Buyumbura a Gitega.
+BJ|Benín|Porto Novo|AF|Es considerado la cuna del vudú, que allí es una religión oficialmente reconocida.
+BN|Brunéi|Bandar Seri Begawan|AS|Su sultán vive en uno de los palacios residenciales más grandes del mundo, con cerca de 1.800 habitaciones.
+BO|Bolivia|Sucre|SA|Sucre es la capital constitucional, pero el gobierno funciona en La Paz. Además, tiene el Salar de Uyuni, el desierto de sal más grande del planeta.
+BR|Brasil|Brasilia|SA|Es el país más grande de América del Sur y tiene la mayor parte de la selva amazónica.
+BS|Bahamas|Nasáu|NA|Está formado por unas 700 islas, y en una de ellas hay cerdos que nadan en el mar.
+BT|Bután|Timbu|AS|Mide su desarrollo con la "Felicidad Nacional Bruta" en lugar de solo el PBI.
+BW|Botsuana|Gaborone|AF|El delta del Okavango es uno de los pocos grandes deltas del mundo que no desembocan en el mar.
+BY|Bielorrusia|Minsk|EU|El bosque de Białowieża, compartido con Polonia, es uno de los últimos bosques primarios de Europa.
+BZ|Belice|Belmopán|NA|Es el único país de Centroamérica cuyo idioma oficial es el inglés, y tiene el famoso Gran Agujero Azul.
+CA|Canadá|Ottawa|NA|Tiene la línea de costa más larga del mundo y más lagos que todos los demás países juntos.
+CD|República Democrática del Congo|Kinsasa|AF|El río Congo, que lo atraviesa, es el río más profundo del mundo, con más de 220 metros en algunas partes.
+CF|República Centroafricana|Bangui|AF|Está justo en el centro geográfico de África, como indica su nombre.
+CG|República del Congo|Brazzaville|AF|Brazzaville y Kinsasa son las dos capitales más cercanas del mundo, separadas solo por el río Congo.
+CH|Suiza|Berna|EU|Tiene cuatro idiomas nacionales: alemán, francés, italiano y romanche.
+CI|Costa de Marfil|Yamusukro|AF|Es el mayor productor de cacao del mundo.
+CL|Chile|Santiago|SA|El desierto de Atacama es el desierto no polar más seco del planeta.
+CM|Camerún|Yaundé|AF|Se lo llama "África en miniatura" porque reúne casi todos los paisajes del continente.
+CN|China|Pekín|AS|Usa un solo huso horario para todo el país, aunque su territorio abarcaría cinco.
+CO|Colombia|Bogotá|SA|Es uno de los países con más especies de aves del mundo.
+CR|Costa Rica|San José|NA|Abolió su ejército en 1948.
+CU|Cuba|La Habana|NA|Es la isla más grande del Caribe.
+CV|Cabo Verde|Praia|AF|Es un archipiélago volcánico de diez islas frente a la costa de Senegal.
+CY|Chipre|Nicosia|EU+AS|Nicosia es la última capital dividida del mundo, partida en dos desde 1974.
+CZ|Chequia|Praga|EU|Es uno de los países donde más cerveza se toma por persona en el mundo.
+DE|Alemania|Berlín|EU|Tiene más de 1.500 tipos de cerveza y unas 300 variedades de pan.
+DJ|Yibuti|Yibuti|AF|El lago Assal está a 155 metros bajo el nivel del mar, el punto más bajo de África.
+DK|Dinamarca|Copenhague|EU|Allí se inventaron los ladrillos LEGO; el nombre viene de "leg godt", que significa "juega bien".
+DM|Dominica|Roseau|NA|Tiene un "lago hirviente", una laguna volcánica cuyas aguas burbujean constantemente.
+DO|República Dominicana|Santo Domingo|NA|Santo Domingo es la ciudad de origen europeo más antigua de América, fundada en 1496.
+DZ|Argelia|Argel|AF|Es el país más grande de África en superficie, y más del 80 % es desierto del Sahara.
+EC|Ecuador|Quito|SA|Por estar sobre la línea ecuatorial, la cima del volcán Chimborazo es el punto más alejado del centro de la Tierra.
+EE|Estonia|Tallin|EU|Allí se creó Skype, y es uno de los países más digitalizados del mundo: se puede votar por internet.
+EG|Egipto|El Cairo|AF+AS|La Gran Pirámide de Guiza fue la estructura más alta hecha por el ser humano durante unos 3.800 años.
+ER|Eritrea|Asmara|AF|Asmara es famosa por su arquitectura modernista italiana y es Patrimonio de la Humanidad.
+ES|España|Madrid|EU|Es uno de los países con más sitios Patrimonio de la Humanidad del mundo, con más de 50.
+ET|Etiopía|Adís Abeba|AF|Usa su propio calendario, que va unos siete u ocho años "atrasado" respecto al gregoriano.
+FI|Finlandia|Helsinki|EU|Hay más saunas que autos: unos 3 millones para 5,5 millones de habitantes.
+FJ|Fiyi|Suva|OC|Está formado por más de 330 islas, de las cuales unas 110 están habitadas.
+FM|Micronesia|Palikir|OC|En la isla de Yap se usaban como moneda enormes discos de piedra de hasta 3 metros.
+FR|Francia|París|EU|Es el país más visitado del mundo por turistas extranjeros.
+GA|Gabón|Libreville|AF|Cerca del 88 % de su territorio está cubierto de selva tropical.
+GB|Reino Unido|Londres|EU|El metro de Londres, inaugurado en 1863, fue el primero del mundo.
+GD|Granada|Saint George's|NA|Se la conoce como la "isla de las especias" y es gran productora de nuez moscada, que aparece en su bandera.
+GE|Georgia|Tiflis|AS+EU|Allí se hace vino desde hace unos 8.000 años, entre los más antiguos del mundo.
+GH|Ghana|Acra|AF|Fue el primer país del África subsahariana en independizarse de un poder colonial, en 1957.
+GM|Gambia|Banjul|AF|Es el país más pequeño de África continental y está casi rodeado por Senegal.
+GN|Guinea|Conakri|AF|Tiene algunas de las mayores reservas de bauxita del mundo, el mineral del que se obtiene el aluminio.
+GQ|Guinea Ecuatorial|Malabo|AF|Es el único país de África con el español como idioma oficial.
+GR|Grecia|Atenas|EU|Tiene unas 6.000 islas, aunque solo unas 200 están habitadas.
+GT|Guatemala|Ciudad de Guatemala|NA|Tikal fue una de las ciudades más grandes de la civilización maya.
+GW|Guinea-Bisáu|Bisáu|AF|El archipiélago de los Bijagós tiene hipopótamos que nadan en el agua salada del mar.
+GY|Guyana|Georgetown|SA|Es el único país de América del Sur con el inglés como idioma oficial.
+HN|Honduras|Tegucigalpa|NA|Copán fue uno de los centros más importantes del arte y la escritura maya.
+HR|Croacia|Zagreb|EU|La corbata tiene origen croata: viene del pañuelo que usaban los soldados croatas en el siglo XVII.
+HT|Haití|Puerto Príncipe|NA|Fue el primer país de América Latina en independizarse, en 1804, tras una revolución de esclavos.
+HU|Hungría|Budapest|EU|El cubo de Rubik fue inventado por el húngaro Ernő Rubik en 1974.
+ID|Indonesia|Yakarta|AS|Es el país con más islas del mundo, más de 17.000.
+IE|Irlanda|Dublín|EU|Es el único país con un instrumento musical, el arpa, como símbolo nacional.
+IL|Israel|Jerusalén|AS|El mar Muerto, en su frontera, es el punto más bajo en tierra firme del planeta.
+IN|India|Nueva Delhi|AS|Es el país más poblado del mundo, con más de 1.400 millones de habitantes.
+IQ|Irak|Bagdad|AS|En su territorio estaba Mesopotamia, donde surgió la escritura hace más de 5.000 años.
+IR|Irán|Teherán|AS|El polo se originó en la antigua Persia hace más de 2.000 años.
+IS|Islandia|Reikiavik|EU|No hay mosquitos, y casi toda su electricidad viene de fuentes renovables.
+IT|Italia|Roma|EU|Dentro de Roma hay otro país entero: el Vaticano.
+JM|Jamaica|Kingston|NA|Es la cuna del reggae y de Usain Bolt, el hombre más rápido de la historia.
+JO|Jordania|Amán|AS|La ciudad de Petra, tallada en la roca, es una de las siete maravillas del mundo moderno.
+JP|Japón|Tokio|AS|Tiene más de 6.800 islas y alrededor de 100 volcanes activos.
+KE|Kenia|Nairobi|AF|Nairobi tiene un parque nacional con leones y jirafas dentro de los límites de la ciudad.
+KG|Kirguistán|Biskek|AS|Más del 90 % de su territorio es montañoso.
+KH|Camboya|Nom Pen|AS|Angkor Wat es el monumento religioso más grande del mundo y aparece en su bandera.
+KI|Kiribati|Tarawa Sur|OC|Es el único país que está en los cuatro hemisferios: norte, sur, este y oeste.
+KM|Comoras|Moroni|AF|Es uno de los mayores productores de ylang-ylang, una flor usada en perfumes.
+KN|San Cristóbal y Nieves|Basseterre|NA|Es el país más pequeño de América, tanto en superficie como en población.
+KP|Corea del Norte|Pionyang|AS|Usa su propio calendario, que empieza a contar desde 1912, año de nacimiento de Kim Il-sung.
+KR|Corea del Sur|Seúl|AS|Tiene una de las conexiones a internet más rápidas del mundo.
+KW|Kuwait|Kuwait|AS|Su moneda, el dinar kuwaití, es la de mayor valor del mundo.
+KZ|Kazajistán|Astaná|AS+EU|Es el país sin salida al mar más grande del mundo, y desde allí despegó el primer ser humano al espacio.
+LA|Laos|Vientián|AS|Es uno de los países más bombardeados de la historia per cápita, por la Guerra de Vietnam.
+LB|Líbano|Beirut|AS|El cedro de su bandera es un árbol que aparece mencionado en la Biblia decenas de veces.
+LC|Santa Lucía|Castries|NA|Es el único país del mundo con nombre de mujer.
+LI|Liechtenstein|Vaduz|EU|Es uno de los dos países del mundo doblemente sin litoral: rodeado por países que tampoco tienen mar.
+LK|Sri Lanka|Colombo|AS|Es uno de los mayores exportadores de té del mundo. Su capital oficial es Sri Jayawardenepura Kotte, junto a Colombo.
+LR|Liberia|Monrovia|AF|Fue fundada por esclavos liberados de Estados Unidos, y su capital lleva el nombre del presidente James Monroe.
+LS|Lesoto|Maseru|AF|Está completamente rodeado por Sudáfrica, y todo su territorio está a más de 1.000 metros de altura.
+LT|Lituania|Vilna|EU|El lituano es una de las lenguas vivas más antiguas de Europa.
+LU|Luxemburgo|Luxemburgo|EU|Es el único gran ducado del mundo y fue el primer país en hacer gratuito todo el transporte público.
+LV|Letonia|Riga|EU|Más de la mitad de su territorio está cubierto de bosques.
+LY|Libia|Trípoli|AF|Más del 90 % de su territorio es desierto, y tiene las mayores reservas de petróleo de África.
+MA|Marruecos|Rabat|AF|La Universidad de al-Qarawiyyin, en Fez, es considerada la más antigua del mundo en funcionamiento.
+MC|Mónaco|Mónaco|EU|Es el segundo país más pequeño del mundo y cada año recibe una carrera de Fórmula 1 por sus calles.
+MD|Moldavia|Chisináu|EU|La bodega Mileștii Mici tiene la colección de vinos más grande del mundo, con kilómetros de túneles.
+ME|Montenegro|Podgorica|EU|Su nombre significa "montaña negra", por los densos bosques de sus montes.
+MG|Madagascar|Antananarivo|AF|Cerca del 90 % de su fauna y flora no existe en ningún otro lugar del mundo, como los lémures.
+MH|Islas Marshall|Majuro|OC|En el atolón Bikini se hicieron pruebas nucleares, y de ahí viene el nombre del traje de baño.
+MK|Macedonia del Norte|Skopie|EU|Es la tierra natal de la Madre Teresa de Calcuta, que nació en Skopie.
+ML|Malí|Bamako|AF|La Gran Mezquita de Djenné es el edificio de adobe más grande del mundo.
+MM|Myanmar|Naipyidó|AS|Bagan tiene más de 2.000 templos y pagodas antiguas en una sola llanura.
+MN|Mongolia|Ulán Bator|AS|Es el país con menor densidad de población del mundo, y hay más caballos que personas.
+MR|Mauritania|Nuakchot|AF|El Ojo del Sahara es una formación geológica tan grande que se ve desde el espacio.
+MT|Malta|La Valeta|EU|La Valeta es la capital más pequeña de la Unión Europea.
+MU|Mauricio|Port Louis|AF|Era el único hogar del dodo, un ave que se extinguió en el siglo XVII.
+MV|Maldivas|Malé|AS|Es el país más plano del mundo: su punto más alto está a unos 2,4 metros sobre el mar.
+MW|Malaui|Lilongüe|AF|El lago Malaui tiene más especies de peces que cualquier otro lago del mundo.
+MX|México|Ciudad de México|NA|De México vienen el chocolate, el maíz y el chile, que el mundo conoció gracias a sus pueblos originarios.
+MY|Malasia|Kuala Lumpur|AS|Las Torres Petronas fueron los edificios más altos del mundo entre 1998 y 2004.
+MZ|Mozambique|Maputo|AF|Su bandera es la única del mundo que tiene un fusil de asalto AK-47.
+NA|Namibia|Windhoek|AF|Fue el primer país en incluir la protección del medio ambiente en su constitución.
+NE|Níger|Niamey|AF|Es uno de los países más calurosos del mundo, y el Sahara cubre cerca del 80 % de su territorio.
+NG|Nigeria|Abuya|AF|Es el país más poblado de África y su industria de cine, Nollywood, es una de las más productivas del mundo.
+NI|Nicaragua|Managua|NA|El lago de Nicaragua tiene tiburones de agua dulce y más de 400 islas.
+NL|Países Bajos|Ámsterdam|EU|Cerca de un tercio del país está por debajo del nivel del mar, y hay más bicicletas que habitantes.
+NO|Noruega|Oslo|EU|Allí nació la idea de poner salmón en el sushi, en los años ochenta.
+NP|Nepal|Katmandú|AS|Tiene 8 de las 10 montañas más altas del mundo, incluido el Everest, y la única bandera no rectangular.
+NR|Nauru|Yaren|OC|Es la república más pequeña del mundo y no tiene capital oficial; Yaren funciona como sede de gobierno.
+NZ|Nueva Zelanda|Wellington|OC|Fue el primer país en dar a las mujeres el derecho al voto, en 1893.
+OM|Omán|Mascate|AS|Fue durante siglos una potencia marítima que controló Zanzíbar, en África.
+PA|Panamá|Ciudad de Panamá|NA|El canal de Panamá permite ir del Atlántico al Pacífico sin rodear América del Sur.
+PE|Perú|Lima|SA|Machu Picchu, la ciudadela inca, es una de las siete maravillas del mundo moderno.
+PG|Papúa Nueva Guinea|Port Moresby|OC|Se hablan más de 800 idiomas, más que en ningún otro país.
+PH|Filipinas|Manila|AS|Tiene más de 7.600 islas y es uno de los países donde más se usan los mensajes de texto.
+PK|Pakistán|Islamabad|AS|El K2, la segunda montaña más alta del mundo, está en su territorio.
+PL|Polonia|Varsovia|EU|Marie Curie, la primera persona en ganar dos premios Nobel, nació en Varsovia.
+PS|Palestina|Ramala|AS|Jericó está considerada una de las ciudades habitadas más antiguas del mundo. Jerusalén Este es su capital proclamada; Ramala funciona como sede administrativa.
+PT|Portugal|Lisboa|EU|El portugués lo hablan más de 250 millones de personas, sobre todo gracias a Brasil.
+PW|Palaos|Ngerulmud|OC|Tiene un lago lleno de millones de medusas doradas en el que se puede nadar.
+PY|Paraguay|Asunción|SA|Es uno de los pocos países donde una lengua indígena, el guaraní, es oficial y hablada por la mayoría.
+QA|Catar|Doha|AS|Fue el primer país de Medio Oriente en organizar una Copa del Mundo de fútbol, en 2022.
+RO|Rumania|Bucarest|EU|El Palacio del Parlamento en Bucarest es uno de los edificios administrativos más grandes del mundo.
+RS|Serbia|Belgrado|EU|Nikola Tesla, pionero de la electricidad, era de origen serbio.
+RU|Rusia|Moscú|EU+AS|Es el país más grande del mundo y abarca 11 husos horarios.
+RW|Ruanda|Kigali|AF|Prohibió las bolsas de plástico en 2008 y Kigali es considerada una de las ciudades más limpias de África.
+SA|Arabia Saudita|Riad|AS|Es uno de los países más grandes del mundo sin ningún río permanente.
+SB|Islas Salomón|Honiara|OC|Fue escenario de la batalla de Guadalcanal durante la Segunda Guerra Mundial.
+SC|Seychelles|Victoria|AF|Allí crece el coco de mar, que tiene la semilla más grande del reino vegetal.
+SD|Sudán|Jartum|AF|Tiene más pirámides que Egipto: más de 200, construidas por el antiguo reino de Kush.
+SE|Suecia|Estocolmo|EU|Tiene cerca de 100.000 lagos y en el norte hay un hotel hecho enteramente de hielo.
+SG|Singapur|Singapur|AS|Es una ciudad-estado y está prohibido vender chicle desde 1992.
+SI|Eslovenia|Liubliana|EU|Cerca del 60 % de su territorio está cubierto de bosques.
+SK|Eslovaquia|Bratislava|EU|Tiene uno de los mayores números de castillos por habitante del mundo.
+SL|Sierra Leona|Freetown|AF|Freetown fue fundada como hogar para esclavos liberados, como indica su nombre ("ciudad libre").
+SM|San Marino|San Marino|EU|Es la república más antigua del mundo que sigue existiendo, fundada según la tradición en el año 301.
+SN|Senegal|Dakar|AF|El lago Retba tiene aguas rosadas por unas algas que viven en su alta salinidad.
+SO|Somalia|Mogadiscio|AF|Tiene la costa más larga de África continental.
+SR|Surinam|Paramaribo|SA|Es el país más pequeño de América del Sur y su idioma oficial es el neerlandés.
+SS|Sudán del Sur|Yuba|AF|Es el país más nuevo del mundo, independiente desde 2011.
+ST|Santo Tomé y Príncipe|Santo Tomé|AF|Es el segundo país más pequeño de África y la línea del ecuador pasa por uno de sus islotes.
+SV|El Salvador|San Salvador|NA|Es el país más pequeño de América continental y se lo conoce como la "tierra de los volcanes".
+SY|Siria|Damasco|AS|Damasco es una de las ciudades habitadas de forma continua más antiguas del mundo.
+SZ|Esuatini|Mbabane|AF|Es una de las últimas monarquías absolutas del mundo; Mbabane es la capital administrativa y Lobamba la real.
+TD|Chad|Yamena|AF|El lago Chad ha perdido cerca del 90 % de su superficie desde la década de 1960.
+TG|Togo|Lomé|AF|Es uno de los países más estrechos del mundo: mide menos de 120 km de ancho.
+TH|Tailandia|Bangkok|AS|El nombre ceremonial completo de Bangkok tiene más de 160 letras, uno de los nombres de ciudad más largos del mundo.
+TJ|Tayikistán|Dusambé|AS|Más del 90 % de su territorio son montañas, incluidas las del Pamir, el "techo del mundo".
+TL|Timor Oriental|Dili|AS|Se independizó en 2002, uno de los países más jóvenes de Asia, y habla portugués y tetun.
+TM|Turkmenistán|Asjabad|AS|La "Puerta del Infierno" es un cráter de gas que arde sin parar desde 1971.
+TN|Túnez|Túnez|AF|Allí se filmaron escenas de Star Wars, y el planeta Tatooine lleva el nombre de un pueblo tunecino.
+TO|Tonga|Nukualofa|OC|Es el único país del Pacífico que nunca fue colonizado del todo.
+TR|Turquía|Ankara|AS+EU|Estambul es la única gran ciudad del mundo que está en dos continentes a la vez.
+TT|Trinidad y Tobago|Puerto España|NA|Allí se inventó el steelpan, un instrumento hecho con barriles de petróleo.
+TV|Tuvalu|Funafuti|OC|Gana mucho dinero vendiendo su dominio de internet ".tv".
+TZ|Tanzania|Dodoma|AF|Tiene el Kilimanjaro, la montaña más alta de África con 5.895 metros.
+UA|Ucrania|Kiev|EU|Es el país más grande que está completamente dentro de Europa.
+UG|Uganda|Kampala|AF|Allí está una de las fuentes del Nilo, en el lago Victoria.
+US|Estados Unidos|Washington D. C.|NA|Yellowstone, creado en 1872, fue el primer parque nacional del mundo.
+UY|Uruguay|Montevideo|SA|Organizó y ganó el primer Mundial de fútbol en 1930.
+UZ|Uzbekistán|Taskent|AS|Es uno de los dos países del mundo doblemente sin salida al mar.
+VA|Ciudad del Vaticano|Ciudad del Vaticano|EU|Es el país más pequeño del mundo, con menos de medio kilómetro cuadrado.
+VC|San Vicente y las Granadinas|Kingstown|NA|Allí se filmaron partes de la saga Piratas del Caribe.
+VE|Venezuela|Caracas|SA|El Salto Ángel es la cascada más alta del mundo, con 979 metros.
+VN|Vietnam|Hanói|AS|Es uno de los mayores exportadores de café del mundo, detrás de Brasil.
+VU|Vanuatu|Port Vila|OC|Tiene una oficina de correos submarina donde se pueden enviar postales a prueba de agua.
+WS|Samoa|Apia|OC|En 2011 se saltó un día entero para cambiar de lado de la línea internacional de cambio de fecha.
+YE|Yemen|Saná|AS|La ciudad de Shibam tiene rascacielos de adobe de hace siglos, por eso la llaman "la Manhattan del desierto".
+ZA|Sudáfrica|Pretoria|AF|Tiene tres capitales: Pretoria (ejecutiva), Ciudad del Cabo (legislativa) y Bloemfontein (judicial).
+ZM|Zambia|Lusaka|AF|Comparte con Zimbabue las cataratas Victoria, una de las caídas de agua más grandes del mundo.
+ZW|Zimbabue|Harare|AF|Las ruinas del Gran Zimbabue, de piedra sin argamasa, le dieron nombre al país.
